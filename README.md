@@ -1,1 +1,1 @@
-# .github
+![image info](./Bruin Logo.png)
