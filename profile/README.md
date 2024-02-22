@@ -1,5 +1,5 @@
-## Somethings Bruin 🐻
-![image info](./BruinLogo.jpg)
+# Somethings Bruin 🐻
+![Logo](./BruinLogo.jpg)
 <!--
 
 **Here are some ideas to get you started:**
