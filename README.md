@@ -1,1 +1,1 @@
-![image info](./BruinLogo.png)
+![image](./BruinLogo.png)
