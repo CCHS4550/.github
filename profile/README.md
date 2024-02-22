@@ -1,11 +1,10 @@
 # FRC 4550 Something's Bruin 🐻
 ---------------------
 The official Github page of the Cherry Creek Highschool Robotics Team
-Founded in 2014
+Founded in 2014  </br>
 ![Logo](./BruinLogo.jpg)
 
-Check Out our Website
-[title](https://www.example.com)
+Check Out Our [Website](https://www.example.com)
 
 <!--
 
