@@ -1,4 +1,4 @@
-## Hi there 👋
+## Somethings Bruin 🐻
 ![image info](./BruinLogo.jpg)
 <!--
 
