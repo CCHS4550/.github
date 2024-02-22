@@ -2,7 +2,9 @@
 ---------------------
 The official Github page of the Cherry Creek Highschool Robotics Team
 Founded in 2014  </br>
-![Logo](./BruinLogo.jpg)
+
+<img src="./BruinLogo.jpg" alt="Logo" width="200" height="200"/>
+
 
 Check Out Our [Website](https://www.example.com)
 
