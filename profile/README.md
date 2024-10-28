@@ -2,7 +2,7 @@
 ---------------------
 ## The official Github page of the Cherry Creek Highschool Robotics Team
 
-Team 4550 Something's Bruin Robotics was created in 2012 by a group of high school students at Cherry Creek High School (Greenwood Village, Colorado). Team 4550 is a student-led club with mentors and teachers providing guidance to members. The team operates as four sub-teams, Mechanical, Electrical, Programming, and Marketing. The entire team is led by Henry Cheung, assisted by Head Mentor Dr. Keith Harrison. Currently, our team consists of 40 to 50 members from all levels and backgrounds. We recruit new members each year through school activities and announcements, and we will also continue to collaborate with other local FIRST Robotics Competition (FRC) teams each year.
+Team 4550 Something's Bruin Robotics was created in 2012 by a group of high school students at Cherry Creek High School (Greenwood Village, Colorado). Team 4550 is a student-led club with mentors and teachers providing guidance to members. The team operates as three main sub-teams, Mechanical, Electrical, and Programming, with smaller subteams including Outreach, Imagery, Media, and Strategy. The entire team is led by Suhit Mogadati, assisted by Head Mentor Dr. Keith Harrison. Currently, our team consists of 40 to 50 members from all levels and backgrounds. We recruit new members each year through school activities and announcements, and we will also continue to collaborate with other local FIRST Robotics Competition (FRC) teams each year.
 
 ## Important Links
 
